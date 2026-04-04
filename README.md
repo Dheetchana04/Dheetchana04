@@ -10,23 +10,23 @@ I enjoy building scalable backend systems, real-world web applications, and appl
 
 ## 🔧 Tech Stack
 
-**Languages:**
-Python, Java, C, C#, JavaScript
-
-**Backend & Web:**
-ASP.NET MVC, ASP.NET Core Web API, Node.js, Express.js
-
-**Frontend:**
-HTML, CSS
-
-**Database:**
-SQL Server, MySQL, MongoDB
-
-**AI/ML:**
-Deep Learning, Data Analysis, TensorFlow, Scikit-learn, Pandas, NumPy
-
-**Tools:**
-Git, GitHub, Visual Studio
+ **Languages:**
+ Python, Java, C, C#, JavaScript
+ 
+ **Backend & Web:**
+ ASP.NET MVC, ASP.NET Core Web API, Node.js, Express.js
+ 
+ **Frontend:**
+ HTML, CSS
+ 
+ **Database:**
+ SQL Server, MySQL, MongoDB
+ 
+ **AI/ML:**
+ Deep Learning, Data Analysis, TensorFlow, Scikit-learn, Pandas, NumPy
+ 
+ **Tools:**
+ Git, GitHub, Visual Studio
 
 
 
@@ -58,40 +58,40 @@ Developed an AI-based model for bird species classification with improved accura
 
 ## 🏆 Achievements
 
-🥇 Smart India Hackathon 2023 Winner (Government of India)
-🏆 Code Fusion Challenge Winner (GDSC)
-🏅 SAE INDIA Technical Paper Presentation Winner (Zonal & State)
-🏆 GDSC CodeQuest Winner
+ 🥇 Smart India Hackathon 2023 Winner (Government of India)
+ 🏆 Code Fusion Challenge Winner (GDSC)
+ 🏅 SAE INDIA Technical Paper Presentation Winner (Zonal & State)
+ 🏆 GDSC CodeQuest Winner
 
 
 
 ## 📜 Publications
 
-📄 Image Classification for Wildlife Conservation – Published in ELCVIA (2024)
-📄 Air Quality Prediction – Accepted in IEEE Conference Proceedings
+ 📄 Image Classification for Wildlife Conservation – Published in ELCVIA (2024)
+ 📄 Air Quality Prediction – Accepted in IEEE Conference Proceedings
 
 
 
 ## 🌱 Experience
 
-💼 Data Analytics Intern – DivSriVin Technologies
-💼 Cybersecurity Intern – Suprajaa Technologies
+ 💼 Data Analytics Intern – DivSriVin Technologies
+ 💼 Cybersecurity Intern – Suprajaa Technologies
 
 
 
 ## 🌐 Leadership & Activities
 
-👩‍💼 GDG Cloud Lead
-🎯 Class Representative
-📢 Event Manager – CSI
+ 👩‍💼 GDG Cloud Lead
+ 🎯 Class Representative
+ 📢 Event Manager – CSI
 
 
 
 ## 📫 Connect With Me
 
-💼 LinkedIn: https://www.linkedin.com/in/dheetchana-k-4773b12
-📧 Email: [dheetchana04@gmail.com](mailto:dheetchana04@gmail.com)
-🧑‍💻 GitHub: https://github.com/Dheetchana04
+ 💼 LinkedIn: https://www.linkedin.com/in/dheetchana-k-4773b12
+ 📧 Email: [dheetchana04@gmail.com](mailto:dheetchana04@gmail.com)
+ 🧑‍💻 GitHub: https://github.com/Dheetchana04
 
 
 
