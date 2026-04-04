@@ -1,16 +1,123 @@
-## Hi there 👋
+# Hi, I'm Dheetchana 👋
 
-<!--
-**Dheetchana04/Dheetchana04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year Computer Science Engineering Student
+🏆 Smart India Hackathon 2023 Winner
+💻 Full-Stack Developer (.NET) | AI/ML Enthusiast
 
-Here are some ideas to get you started:
+I enjoy building scalable backend systems, real-world web applications, and applying machine learning to solve impactful problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 🔧 Tech Stack
+
+**Languages:**
+Python, Java, C, C#, JavaScript
+
+**Backend & Web:**
+ASP.NET MVC, ASP.NET Core Web API, Node.js, Express.js
+
+**Frontend:**
+HTML, CSS
+
+**Database:**
+SQL Server, MySQL, MongoDB
+
+**AI/ML:**
+Deep Learning, Data Analysis, TensorFlow, Scikit-learn, Pandas, NumPy
+
+**Tools:**
+Git, GitHub, Visual Studio
+
+
+
+## 🚀 Featured Projects
+
+### ✈️ Flight Booking System
+
+**ASP.NET Core Web API · MVC · SQL Server**
+A full-stack application for searching, booking, and managing flights with real-time seat availability and admin control.
+
+
+
+### 📦 Lost & Found Management System
+
+**ASP.NET Core Web API · MVC · SQL Server**
+A platform to report, track, and recover lost items with image upload and role-based access.
+
+
+
+### 💻 IT Help Desk System
+
+**ASP.NET MVC · SQL Server**
+A ticket-based system to manage user issues, support requests, and admin workflows efficiently.
+
+
+
+### 🏋️ Fitness Tracker Portal
+
+**ASP.NET MVC · SQL Server**
+A role-based portal where users log workouts, track goals, and coaches monitor member progress and weekly performance.
+
+
+
+### 💱 Currency Converter System
+
+**ASP.NET MVC · Web API · External API Integration**
+A real-time currency conversion application using external exchange rate APIs with seamless API handling.
+
+
+
+### 🌫 Air Quality Prediction & Analysis
+
+**Python · Machine Learning**
+Built predictive models using Gradient Descent and forecasting techniques to analyze and predict AQI levels in India.
+
+
+
+### 🧬 Wildlife Image Classification
+
+**Deep Learning · MobileNet · InceptionV3**
+Developed an AI-based model for bird species classification with improved accuracy through optimization and preprocessing. Published in ELCVIA and IEEE.
+
+
+
+## 🏆 Achievements
+
+🥇 Smart India Hackathon 2023 Winner (Government of India)
+🏆 Code Fusion Challenge Winner (GDSC)
+🏅 SAE INDIA Technical Paper Presentation Winner (Zonal & State)
+🏆 GDSC CodeQuest Winner
+
+
+
+## 📜 Publications
+
+📄 Image Classification for Wildlife Conservation – Published in ELCVIA (2024)
+📄 Air Quality Prediction – Accepted in IEEE Conference Proceedings
+
+
+
+## 🌱 Experience
+
+💼 Data Analytics Intern – DivSriVin Technologies
+💼 Cybersecurity Intern – Suprajaa Technologies
+
+
+
+## 🌐 Leadership & Activities
+
+👩‍💼 GDG Cloud Lead
+🎯 Class Representative
+📢 Event Manager – CSI
+
+
+
+## 📫 Connect With Me
+
+💼 LinkedIn: https://www.linkedin.com/in/dheetchana-k-4773b12
+📧 Email: [dheetchana04@gmail.com](mailto:dheetchana04@gmail.com)
+🧑‍💻 GitHub: https://github.com/Dheetchana04
+
+
+
+⭐ *Passionate about learning, building, and growing as a developer every day.*
