@@ -38,33 +38,10 @@ Git, GitHub, Visual Studio
 A full-stack application for searching, booking, and managing flights with real-time seat availability and admin control.
 
 
-
 ### 📦 Lost & Found Management System
 
 **ASP.NET Core Web API · MVC · SQL Server**
 A platform to report, track, and recover lost items with image upload and role-based access.
-
-
-
-### 💻 IT Help Desk System
-
-**ASP.NET MVC · SQL Server**
-A ticket-based system to manage user issues, support requests, and admin workflows efficiently.
-
-
-
-### 🏋️ Fitness Tracker Portal
-
-**ASP.NET MVC · SQL Server**
-A role-based portal where users log workouts, track goals, and coaches monitor member progress and weekly performance.
-
-
-
-### 💱 Currency Converter System
-
-**ASP.NET MVC · Web API · External API Integration**
-A real-time currency conversion application using external exchange rate APIs with seamless API handling.
-
 
 
 ### 🌫 Air Quality Prediction & Analysis
@@ -73,13 +50,11 @@ A real-time currency conversion application using external exchange rate APIs wi
 Built predictive models using Gradient Descent and forecasting techniques to analyze and predict AQI levels in India.
 
 
-
 ### 🧬 Wildlife Image Classification
 
 **Deep Learning · MobileNet · InceptionV3**
 Developed an AI-based model for bird species classification with improved accuracy through optimization and preprocessing. Published in ELCVIA and IEEE.
-
-
+ 
 
 ## 🏆 Achievements
 
