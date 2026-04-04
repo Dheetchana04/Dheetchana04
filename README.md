@@ -6,7 +6,7 @@
 
 I enjoy building scalable backend systems, real-world web applications, and applying machine learning to solve impactful problems.  
 
----
+
 
 ## 🔧 Tech Stack  
 
@@ -28,7 +28,7 @@ Deep Learning, Data Analysis, TensorFlow, Scikit-learn, Pandas, NumPy
 **Tools:**  
 Git, GitHub, Visual Studio  
 
----
+
 
 ## 🚀 Featured Projects  
 
@@ -36,25 +36,25 @@ Git, GitHub, Visual Studio
 **ASP.NET Core Web API · MVC · SQL Server**  
 A full-stack application for searching, booking, and managing flights with real-time seat availability and admin control.  
 
----
+
 
 ### 📦 Lost & Found Management System  
 **ASP.NET Core Web API · MVC · SQL Server**  
 A platform to report, track, and recover lost items with image upload and role-based access.  
 
----
+
 
 ### 🌫 Air Quality Prediction & Analysis  
 **Python · Machine Learning**  
 Built predictive models using Gradient Descent and forecasting techniques to analyze and predict AQI levels in India.  
 
----
+
 
 ### 🧬 Wildlife Image Classification  
 **Deep Learning · MobileNet · InceptionV3**  
 Developed an AI-based model for bird species classification with improved accuracy through optimization and preprocessing. Published in ELCVIA and IEEE.  
 
----
+
 
 ## 🏆 Achievements  
 
@@ -63,21 +63,21 @@ Developed an AI-based model for bird species classification with improved accura
 - 🏅 SAE INDIA Technical Paper Presentation Winner (Zonal & State)  
 - 🏆 GDSC CodeQuest Winner  
 
----
+
 
 ## 📜 Publications  
 
 - 📄 Image Classification for Wildlife Conservation – Published in ELCVIA (2024)  
 - 📄 Air Quality Prediction – Accepted in IEEE Conference Proceedings  
 
----
+
 
 ## 🌱 Experience  
 
 - 💼 Data Analytics Intern – DivSriVin Technologies  
 - 💼 Cybersecurity Intern – Suprajaa Technologies  
 
----
+
 
 ## 🌐 Leadership & Activities  
 
@@ -85,7 +85,7 @@ Developed an AI-based model for bird species classification with improved accura
 - 🎯 Class Representative  
 - 📢 Event Manager – CSI  
 
----
+
 
 ## 📫 Connect With Me  
 
@@ -93,6 +93,5 @@ Developed an AI-based model for bird species classification with improved accura
 - 📧 Email: dheetchana04@gmail.com  
 - 🧑‍💻 GitHub: https://github.com/Dheetchana04  
 
----
 
 ⭐ *Passionate about learning, building, and growing as a developer every day.*  
