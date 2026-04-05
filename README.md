@@ -89,7 +89,7 @@ Developed an AI-based model for bird species classification with improved accura
 
 ## 📫 Connect With Me  
 
-- 💼 LinkedIn: https://www.linkedin.com/in/dheetchana-k-4773b12  
+- 💼 LinkedIn: https://www.linkedin.com/in/dheetchana-k-4773b1255  
 - 📧 Email: dheetchana04@gmail.com  
 - 🧑‍💻 GitHub: https://github.com/Dheetchana04  
 
