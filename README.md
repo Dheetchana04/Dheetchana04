@@ -32,17 +32,6 @@ Git, GitHub, Visual Studio
 
 ## 🚀 Featured Projects  
 
-### ✈️ Flight Booking System  
-**ASP.NET Core Web API · MVC · SQL Server**  
-A full-stack application for searching, booking, and managing flights with real-time seat availability and admin control.  
-
-
-
-### 📦 Lost & Found Management System  
-**ASP.NET Core Web API · MVC · SQL Server**  
-A platform to report, track, and recover lost items with image upload and role-based access.  
-
-
 
 ### 🌫 Air Quality Prediction & Analysis  
 **Python · Machine Learning**  
@@ -54,6 +43,16 @@ Built predictive models using Gradient Descent and forecasting techniques to ana
 **Deep Learning · MobileNet · InceptionV3**  
 Developed an AI-based model for bird species classification with improved accuracy through optimization and preprocessing. Published in ELCVIA and IEEE.  
 
+
+### ✈️ Flight Booking System  
+**ASP.NET Core Web API · MVC · SQL Server**  
+A full-stack application for searching, booking, and managing flights with real-time seat availability and admin control.  
+
+
+
+### 📦 Lost & Found Management System  
+**ASP.NET Core Web API · MVC · SQL Server**  
+A platform to report, track, and recover lost items with image upload and role-based access.  
 
 
 ## 🏆 Achievements  
