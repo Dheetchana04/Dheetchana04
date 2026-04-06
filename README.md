@@ -57,10 +57,10 @@ A platform to report, track, and recover lost items with image upload and role-b
 
 ## 🏆 Achievements  
 
-- 🥇 Smart India Hackathon 2023 Winner (Government of India)  
-- 🏆 Code Fusion Challenge Winner (GDSC)  
-- 🏅 SAE INDIA Technical Paper Presentation Winner (Zonal & State)  
-- 🏆 GDSC CodeQuest Winner  
+- 🥇 Smart India Hackathon 2023 Winner (Government of India)
+- 🥇 CodeChef Gold Badge — 500+ algorithmic problems solved
+- 🏅 SAE INDIA Technical Paper Presentation Winner (Zonal & State)
+- 🏆 Code Fusion Challenge Winner (GDSC)    
 
 
 
@@ -68,13 +68,6 @@ A platform to report, track, and recover lost items with image upload and role-b
 
 - 📄 Image Classification for Wildlife Conservation – Published in ELCVIA (2024)  
 - 📄 Air Quality Prediction – Accepted in IEEE Conference Proceedings  
-
-
-
-## 🌱 Experience  
-
-- 💼 Data Analytics Intern – DivSriVin Technologies  
-- 💼 Cybersecurity Intern – Suprajaa Technologies  
 
 
 
